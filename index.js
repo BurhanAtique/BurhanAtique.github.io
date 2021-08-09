@@ -25,7 +25,7 @@ function toggle_onclick($win, $navbar, width){
 
 var typed = new Typed('#typed' , {
     strings: [
-        'Associate Software Engineer @ i2c Inc' ,
+        'Software Engineer @ i2c Inc' ,
         'Web Developer',
         'Machine Learning Enthusiast',
         'Data Science Enthusiast',
@@ -38,7 +38,7 @@ var typed = new Typed('#typed' , {
 
 var typed_2 = new Typed('#typed_2' , {
     strings: [
-        'Associate Software Engineer @ i2c Inc' ,
+        'Software Engineer @ i2c Inc' ,
         'Web Developer',
         'Machine Learning Enthusiast',
         'Data Science Enthusiast',
