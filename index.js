@@ -27,9 +27,9 @@ var typed = new Typed('#typed' , {
     strings: [
         'Software Engineer @ i2c Inc' ,
         'Web Developer',
-        'Machine Learning Enthusiast',
-        'Data Science Enthusiast',
-        'AI Enthusiast'
+        'Programming Enthusiast',
+        'Skilled Problem Solver',
+        'Solution Oriented'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -40,9 +40,9 @@ var typed_2 = new Typed('#typed_2' , {
     strings: [
         'Software Engineer @ i2c Inc' ,
         'Web Developer',
-        'Machine Learning Enthusiast',
-        'Data Science Enthusiast',
-		'AI Enthusiast'
+        'Programming Enthusiast',
+        'Skilled Problem Solver',
+		'Solution Oriented'
     ],
     typeSpeed: 50,
     backSpeed: 50,
